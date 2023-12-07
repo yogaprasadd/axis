@@ -4,7 +4,7 @@ def swapPositions(list, pos1, pos2):
     return list
  
 # Driver function
-List = [23, 65, 19, 90]
+List = [24, 65, 19, 90]
 pos1, pos2  = 1, 3
  
 print(swapPositions(List, pos1-1, pos2-1))
